@@ -1,3 +1,16 @@
+'''
+
+CODED BY kcnti
+Github: https://github.com/kcnti
+Facebook: https://facebook.com/earthktnn
+Instagram: https://instagram.com/kcntinun
+Website: https://kanti.tk
+
+
+'''
+
+
+
 import os
 import discord
 from discord.ext import commands
