@@ -1,6 +1,8 @@
 '''
 
 CODED BY kcnti
+
+Discord: Kanti#8338
 Github: https://github.com/kcnti
 Facebook: https://facebook.com/earthktnn
 Instagram: https://instagram.com/kcntinun
