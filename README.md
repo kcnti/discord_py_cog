@@ -2,4 +2,4 @@
 
 Bot Discord py using cog.
 
-Nothing special but the special thing is here -> <a href=https://kanti.tk/discord>My bot</a> :)
+Nothing special but the special thing is here -> <button style="padding: 20px 40px;background-color: white"><a href="https://kanti.tk/discord" style="color: blue">My bot</a></button> :)
